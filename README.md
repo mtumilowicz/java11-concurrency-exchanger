@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mtumilowicz/java11-concurrency-exchanger.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-concurrency-exchanger)
+
 # java11-concurrency-exchanger
 
 # preface
