@@ -13,8 +13,7 @@ to exchange information
 * only one constructor: no args
 * `V` is a type of exchanged object
 * methods:
-    * `V exchange(V x)`
-        * waits for another thread to arrive at this exchange 
+    * `V exchange(V x)` - waits for another thread to arrive at this exchange 
         point and then transfers the given object to it, receiving its object
         in return
     * `V exchange(V x, long timeout, TimeUnit unit)`
